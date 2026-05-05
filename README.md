@@ -7,11 +7,20 @@
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
 
-- 👨‍💻 I’m currently working on web development technologies like C# , .NET .
-- 📚 I’m currently learning about Backend technologies.
-- 🎯 Future Goals: Learn more web technologies - Create awesome websites.
+ # 🚀 About Me
+💻 Backend Developer using C# & .NET  
+
+# 📚 Currently Learning
+🔹 ASP.NET Core  
+🔹 Web APIs  
+🔹 SQL Server  
+
+ # 🎯 Goals
+🔥 Build real-world projects  
+🔥 Master backend development  
+🔥 Create powerful web applications  
   
-- 📫 Social links
+# 📫 Social Links
 <p>
 	<a href="mailto:moelsayed162003@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/moelsayed01555"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -21,16 +30,16 @@ I'm a software developer with a strong passion for creating visually appealing a
 	<a href="https://www.instagram.com/mohamed___elsayedd/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-### 🛠 &nbsp;Technologies that I work with
+## 🛠 Technologies I Work With
 ![C#](https://img.shields.io/badge/c%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white )
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white")
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-#### 🖥️ Frameworks
+## 🖥️ Frameworks
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white )
 
-#### 🔧 Tools
+## 🔧 Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![NuGet](https://img.shields.io/badge/nuget-%23004880.svg?style=for-the-badge&logo=nuget&logoColor=white )
