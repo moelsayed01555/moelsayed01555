@@ -7,9 +7,9 @@
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
 
- # 🚀 About Me  [![Portfolio](https://img.shields.io/badge/View_Portfolio-white?style=for-the-badge&logo=react&logoColor=61DAFB )]([(https://mohamed-elsayedd-portfolio.netlify.app)])
+ # 🚀 About Me  
 
-💻 Backend Developer using C# & .NET  
+💻 .NET Backend Developer using C# & .NET  
 
 # 📚 Currently Learning
 🔹 ASP.NET Core  
